@@ -1,14 +1,16 @@
 This project is a full-stack movie recommendation system using:
 
-Python + Surprise for collaborative filtering
+- Python + Surprise for collaborative filtering
 
-Flask backend API
+- Flask backend API
 
-React frontend
+- React frontend
 
-MovieLens dataset
+- MovieLens dataset
 
 Supports multiple recommendation algorithms like SVD, KNN (user/item), Slope One, Baseline, and CoClustering.
+
+
 
 To run:
 
