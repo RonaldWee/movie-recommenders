@@ -153,8 +153,7 @@ movie-recommenders/
 ├── myenv/                  # Python virtual environment
 ├── Model_Losses.ipynb     # Model evaluation notebook
 ├── requirements.txt       # Python dependencies
-├── README.md             # Quick start guide
-└── DOCUMENTATION.md      # This file
+└── README.md               # This file
 ```
 
 ## Installation
